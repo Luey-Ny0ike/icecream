@@ -1,0 +1,13 @@
+h1{
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+h2{
+  text-align: center;
+  font-style: oblique;
+}
+ body{
+   background-color: blue;
+ }
